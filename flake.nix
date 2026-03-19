@@ -78,7 +78,7 @@
         '';
 
         outputHashMode = "recursive";
-        outputHash = "sha256-BMW+oUGHohnWna99M9qqVtOw/K0J/m+C8UEhV//jb1Q=";
+        outputHash = "sha256-/pdDy1VNaBOYaUQq1aK9rlTzLoqZCbwkV6sS56PZMiI=";
       };
 
       # Build frontend separately
